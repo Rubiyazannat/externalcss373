@@ -1,0 +1,21 @@
+
+.first-h1{
+color: #960909;
+font-style: italic;
+font: size 100px;;
+font-weight: bold;
+text-transform: uppercase;
+}
+.second-h1{
+color: rgb(30, 199, 199);
+font-weight: bold;
+font-size: 40px;
+
+}
+p{
+color: rgb(100, 15, 32);
+font-style: initial;
+font-size: 20px;
+}
+
+
